@@ -1,0 +1,785 @@
+2025-01-23 13:37:52,024 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 13:37:54,111 - root - INFO - Chrome Driver started successfully.
+2025-01-23 13:37:54,111 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 13:38:01,327 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 13:38:01,341 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 13:38:01,506 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 13:38:01,507 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 13:38:01,507 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 13:38:02,888 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 13:38:04,932 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 13:38:04,933 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 13:38:04,956 - VariantDropdownTest - INFO - No variant options found after clicking the dropdown.
+2025-01-23 13:39:30,567 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 13:39:32,477 - root - INFO - Chrome Driver started successfully.
+2025-01-23 13:39:32,478 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 13:39:40,011 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 13:39:40,025 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 13:39:40,177 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 13:39:40,177 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 13:39:40,177 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 13:39:41,529 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 13:39:46,550 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 13:39:46,551 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 13:39:57,102 - VariantDropdownTest - ERROR - Timeout while waiting for the variant options to load.
+2025-01-23 13:50:11,139 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 13:50:12,960 - root - INFO - Chrome Driver started successfully.
+2025-01-23 13:50:12,961 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 13:50:20,783 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 13:50:20,822 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 13:50:20,975 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 13:50:20,975 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 13:50:20,975 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 13:50:22,296 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 13:50:27,310 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 13:50:27,311 - VariantDropdownTest - INFO - Removing aria-hidden attributes from the page...
+2025-01-23 13:50:27,318 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 13:50:37,663 - VariantDropdownTest - ERROR - Timeout while waiting for the variant options to load.
+2025-01-23 13:52:43,395 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 13:52:45,373 - root - INFO - Chrome Driver started successfully.
+2025-01-23 13:52:45,373 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 13:52:53,601 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 13:52:53,617 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 13:52:53,772 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 13:52:59,022 - VariantDropdownTest - ERROR - Timeout while waiting for the dropdown container or options.
+2025-01-23 13:52:59,023 - VariantDropdownTest - INFO - Removing aria-hidden attributes from the page...
+2025-01-23 13:52:59,052 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 13:53:09,375 - VariantDropdownTest - ERROR - Timeout while waiting for the variant options to load.
+2025-01-23 13:57:24,015 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 13:57:26,433 - root - INFO - Chrome Driver started successfully.
+2025-01-23 13:57:26,433 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 13:57:34,207 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 13:57:34,222 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 13:57:34,428 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 13:57:34,428 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 13:57:34,428 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 13:57:35,754 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 13:57:40,766 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 13:57:40,767 - VariantDropdownTest - INFO - Removing aria-hidden attributes from the page...
+2025-01-23 13:57:40,780 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 13:57:51,246 - VariantDropdownTest - ERROR - Timeout while waiting for the variant options to load.
+2025-01-23 14:07:25,015 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:07:28,760 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:07:28,761 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:07:36,024 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:07:36,065 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:07:36,214 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:07:36,214 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:07:36,215 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:07:37,688 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:07:42,695 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:07:42,701 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:07:42,701 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 14:07:42,701 - VariantDropdownTest - INFO - Polling for variant options...
+2025-01-23 14:07:58,007 - VariantDropdownTest - ERROR - No variant options found after polling.
+2025-01-23 14:32:32,409 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:33:07,571 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:33:11,818 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:33:11,818 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:33:19,142 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:33:19,154 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:33:19,302 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:33:19,303 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:33:19,303 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:33:20,607 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:33:25,618 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:33:25,627 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:33:25,627 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 14:33:25,628 - VariantDropdownTest - INFO - Polling for variant options...
+2025-01-23 14:33:40,969 - VariantDropdownTest - ERROR - No variant options found after polling.
+2025-01-23 14:41:04,780 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:41:07,077 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:41:07,077 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:41:14,440 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:41:14,453 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:41:14,613 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:41:14,613 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:41:14,614 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:41:15,931 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:41:20,940 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:41:20,947 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:41:20,954 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 14:41:20,955 - VariantDropdownTest - INFO - Polling for variant options...
+2025-01-23 14:41:36,240 - VariantDropdownTest - ERROR - No variant options found after polling.
+2025-01-23 14:41:44,742 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:41:46,304 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:41:46,305 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:41:54,005 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:41:54,018 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:41:54,169 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:41:54,169 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:41:54,170 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:41:55,572 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:42:00,585 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:42:00,595 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:42:00,603 - VariantDropdownTest - INFO - Scanning for variant options on the page...
+2025-01-23 14:42:00,604 - VariantDropdownTest - INFO - Polling for variant options...
+2025-01-23 14:42:15,870 - VariantDropdownTest - ERROR - No variant options found after polling.
+2025-01-23 14:49:57,409 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:49:59,401 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:49:59,401 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:50:06,878 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:50:06,892 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:50:07,205 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:50:07,205 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:50:07,205 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:50:13,534 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:50:18,540 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:50:18,546 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:50:18,552 - VariantDropdownTest - INFO - Scanning for specified variant options using XPaths and CSS selectors...
+2025-01-23 14:50:18,588 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 14:50:18,616 - VariantDropdownTest - INFO - Element found with XPath //*[@id="format-type-dropdown_1"]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 14:50:18,640 - VariantDropdownTest - INFO - Element found with CSS selector #a-popover-1 > div > div > ul > li:nth-child(2): Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 14:50:18,665 - VariantDropdownTest - INFO - Element found with CSS selector #a-popover-1 > div > div > ul > li:nth-child(1): Visible. Text: All variants
+2025-01-23 14:53:15,046 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:53:17,267 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:53:17,268 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:53:25,569 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:53:25,584 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:53:25,736 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:53:25,737 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:53:25,737 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:53:27,061 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:53:32,066 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:53:32,072 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:53:32,077 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 14:53:32,110 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 14:53:32,198 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 14:57:36,267 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 14:57:37,600 - root - INFO - Chrome Driver started successfully.
+2025-01-23 14:57:37,601 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 14:57:44,942 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 14:57:45,014 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 14:57:45,190 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 14:57:45,190 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 14:57:45,191 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 14:57:46,520 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 14:57:51,553 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 14:57:51,565 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 14:57:51,573 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 14:57:51,606 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 14:57:51,706 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:03:55,155 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:05:55,453 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:05:58,395 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:05:58,395 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:06:07,286 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:06:07,299 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:06:07,440 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:06:07,440 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:06:07,440 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:06:08,782 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:06:13,809 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:06:13,831 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:06:13,841 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:06:13,872 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:06:13,967 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:06:13,968 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown using specified XPaths and CSS selectors...
+2025-01-23 15:06:14,008 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3"]: Visible. Text: Top reviews
+2025-01-23 15:06:15,593 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-autoid-3"]: Message: element click intercepted: Element <span tabindex="-1" data-a-class="cr-sort-dropdown" class="a-button a-button-dropdown cr-sort-dropdown" id="a-autoid-3" style="min-width: 0%;">...</span> is not clickable at point (72, 196). Other element would receive the click: <div id="filter-info-section" data-hook="cr-filter-info-section" class="a-section a-spacing-medium">...</div>
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x01006FB3+25091]
+	(No symbol) [0x00F8E5D4]
+	(No symbol) [0x00E6B353]
+	(No symbol) [0x00EB5498]
+	(No symbol) [0x00EB38A4]
+	(No symbol) [0x00EB1447]
+	(No symbol) [0x00EB075D]
+	(No symbol) [0x00EA5638]
+	(No symbol) [0x00ED1EDC]
+	(No symbol) [0x00EA4DF4]
+	(No symbol) [0x00ED2174]
+	(No symbol) [0x00EEB46E]
+	(No symbol) [0x00ED1C76]
+	(No symbol) [0x00EA3185]
+	(No symbol) [0x00EA430D]
+	GetHandleVerifier [0x012FD5B3+3131395]
+	GetHandleVerifier [0x0130DDA4+3198964]
+	GetHandleVerifier [0x01308CC2+3178258]
+	GetHandleVerifier [0x010A3290+664800]
+	(No symbol) [0x00F9744D]
+	(No symbol) [0x00F94798]
+	(No symbol) [0x00F94936]
+	(No symbol) [0x00F87030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:06:15,632 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3-announce"]: Visible. Text: Top reviews
+2025-01-23 15:06:15,707 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-autoid-3-announce"].
+2025-01-23 15:11:07,698 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:11:08,735 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:11:08,736 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:11:17,057 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:11:17,071 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:11:17,237 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:11:17,237 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:11:17,237 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:11:18,588 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:11:23,609 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:11:23,625 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:11:23,626 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:11:23,643 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="a-popover-1"]/div/div/ul/li[2]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C56FB3+25091]
+	(No symbol) [0x00BDE5D4]
+	(No symbol) [0x00ABB353]
+	(No symbol) [0x00AFF4BC]
+	(No symbol) [0x00AFF63B]
+	(No symbol) [0x00B3D8B2]
+	(No symbol) [0x00B21F24]
+	(No symbol) [0x00B3B46E]
+	(No symbol) [0x00B21C76]
+	(No symbol) [0x00AF3185]
+	(No symbol) [0x00AF430D]
+	GetHandleVerifier [0x00F4D5B3+3131395]
+	GetHandleVerifier [0x00F5DDA4+3198964]
+	GetHandleVerifier [0x00F58CC2+3178258]
+	GetHandleVerifier [0x00CF3290+664800]
+	(No symbol) [0x00BE744D]
+	(No symbol) [0x00BE4798]
+	(No symbol) [0x00BE4936]
+	(No symbol) [0x00BD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:11:23,655 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="format-type-dropdown_1"]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="format-type-dropdown_1"]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C56FB3+25091]
+	(No symbol) [0x00BDE5D4]
+	(No symbol) [0x00ABB353]
+	(No symbol) [0x00AFF4BC]
+	(No symbol) [0x00AFF63B]
+	(No symbol) [0x00B3D8B2]
+	(No symbol) [0x00B21F24]
+	(No symbol) [0x00B3B46E]
+	(No symbol) [0x00B21C76]
+	(No symbol) [0x00AF3185]
+	(No symbol) [0x00AF430D]
+	GetHandleVerifier [0x00F4D5B3+3131395]
+	GetHandleVerifier [0x00F5DDA4+3198964]
+	GetHandleVerifier [0x00F58CC2+3178258]
+	GetHandleVerifier [0x00CF3290+664800]
+	(No symbol) [0x00BE744D]
+	(No symbol) [0x00BE4798]
+	(No symbol) [0x00BE4936]
+	(No symbol) [0x00BD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:11:23,667 - VariantDropdownTest - WARNING - Failed to interact with CSS selector #a-popover-1 > div > div > ul > li:nth-child(2): Message: no such element: Unable to locate element: {"method":"css selector","selector":"#a-popover-1 > div > div > ul > li:nth-child(2)"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C56FB3+25091]
+	(No symbol) [0x00BDE5D4]
+	(No symbol) [0x00ABB353]
+	(No symbol) [0x00AFF4BC]
+	(No symbol) [0x00AFF63B]
+	(No symbol) [0x00B3D8B2]
+	(No symbol) [0x00B21F24]
+	(No symbol) [0x00B3B46E]
+	(No symbol) [0x00B21C76]
+	(No symbol) [0x00AF3185]
+	(No symbol) [0x00AF430D]
+	GetHandleVerifier [0x00F4D5B3+3131395]
+	GetHandleVerifier [0x00F5DDA4+3198964]
+	GetHandleVerifier [0x00F58CC2+3178258]
+	GetHandleVerifier [0x00CF3290+664800]
+	(No symbol) [0x00BE744D]
+	(No symbol) [0x00BE4798]
+	(No symbol) [0x00BE4936]
+	(No symbol) [0x00BD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:11:23,677 - VariantDropdownTest - WARNING - Failed to interact with CSS selector #a-popover-1 > div > div > ul > li:nth-child(1): Message: no such element: Unable to locate element: {"method":"css selector","selector":"#a-popover-1 > div > div > ul > li:nth-child(1)"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C56FB3+25091]
+	(No symbol) [0x00BDE5D4]
+	(No symbol) [0x00ABB353]
+	(No symbol) [0x00AFF4BC]
+	(No symbol) [0x00AFF63B]
+	(No symbol) [0x00B3D8B2]
+	(No symbol) [0x00B21F24]
+	(No symbol) [0x00B3B46E]
+	(No symbol) [0x00B21C76]
+	(No symbol) [0x00AF3185]
+	(No symbol) [0x00AF430D]
+	GetHandleVerifier [0x00F4D5B3+3131395]
+	GetHandleVerifier [0x00F5DDA4+3198964]
+	GetHandleVerifier [0x00F58CC2+3178258]
+	GetHandleVerifier [0x00CF3290+664800]
+	(No symbol) [0x00BE744D]
+	(No symbol) [0x00BE4798]
+	(No symbol) [0x00BE4936]
+	(No symbol) [0x00BD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:11:23,678 - VariantDropdownTest - ERROR - Failed to interact with any variant options.
+2025-01-23 15:11:23,678 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown using specified XPaths and CSS selectors...
+2025-01-23 15:11:23,708 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3"]: Visible. Text: Top reviews
+2025-01-23 15:11:23,788 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-autoid-3"].
+2025-01-23 15:12:00,045 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:12:02,697 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:12:02,698 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:12:10,021 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:12:10,035 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:12:10,196 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:12:10,196 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:12:10,197 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:12:11,514 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:12:16,521 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:12:16,527 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:12:16,528 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:12:16,555 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:12:16,646 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:12:16,648 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown using specified XPaths and CSS selectors...
+2025-01-23 15:12:16,685 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3"]: Visible. Text: Top reviews
+2025-01-23 15:12:16,762 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-autoid-3"].
+2025-01-23 15:15:12,007 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:15:13,107 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:15:13,108 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:15:21,381 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:15:21,402 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:15:21,545 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:15:21,545 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:15:21,545 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:15:22,861 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:15:27,885 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:15:27,899 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:15:27,899 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:15:27,967 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:15:28,066 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:15:28,067 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown dynamically and interacting with options...
+2025-01-23 15:15:28,067 - VariantDropdownTest - INFO - Top reviews dropdown located.
+2025-01-23 15:15:29,967 - VariantDropdownTest - INFO - Top reviews dropdown clicked successfully.
+2025-01-23 15:15:35,016 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3"]/span: Visible. Text: Top reviews
+2025-01-23 15:15:36,077 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-autoid-3"]/span: Message: element click intercepted: Element <span class="a-button-inner">...</span> is not clickable at point (72, 94). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" aria-hidden="true" data-value="{&quot;stringVal&quot;:&quot;helpful&quot;}" id="sort-order-dropdown_0" class="a-dropdown-link a-active">...</a>
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x007A5498]
+	(No symbol) [0x007A38A4]
+	(No symbol) [0x007A1447]
+	(No symbol) [0x007A075D]
+	(No symbol) [0x00795355]
+	(No symbol) [0x007C1EDC]
+	(No symbol) [0x00794DF4]
+	(No symbol) [0x007C2174]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:36,102 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-autoid-3-announce"]: Visible. Text: Top reviews
+2025-01-23 15:15:37,182 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-autoid-3-announce"]: Message: element click intercepted: Element <span class="a-button-text a-declarative" data-action="a-dropdown-button" id="a-autoid-3-announce">...</span> is not clickable at point (72, 94). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" aria-hidden="true" data-value="{&quot;stringVal&quot;:&quot;helpful&quot;}" id="sort-order-dropdown_0" class="a-dropdown-link a-active">...</a>
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x007A5498]
+	(No symbol) [0x007A38A4]
+	(No symbol) [0x007A1447]
+	(No symbol) [0x007A075D]
+	(No symbol) [0x00795355]
+	(No symbol) [0x007C1EDC]
+	(No symbol) [0x00794DF4]
+	(No symbol) [0x007C2174]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:37,204 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-popover-1"]/div/div/ul/li[1]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="a-popover-1"]/div/div/ul/li[1]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x0079F4BC]
+	(No symbol) [0x0079F63B]
+	(No symbol) [0x007DD8B2]
+	(No symbol) [0x007C1F24]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:37,235 - VariantDropdownTest - INFO - Element found with CSS selector #a-autoid-3 > span: Visible. Text: Top reviews
+2025-01-23 15:15:38,282 - VariantDropdownTest - WARNING - Failed to interact with CSS selector #a-autoid-3 > span: Message: element click intercepted: Element <span class="a-button-inner">...</span> is not clickable at point (72, 94). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" aria-hidden="true" data-value="{&quot;stringVal&quot;:&quot;helpful&quot;}" id="sort-order-dropdown_0" class="a-dropdown-link a-active">...</a>
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x007A5498]
+	(No symbol) [0x007A38A4]
+	(No symbol) [0x007A1447]
+	(No symbol) [0x007A075D]
+	(No symbol) [0x00795355]
+	(No symbol) [0x007C1EDC]
+	(No symbol) [0x00794DF4]
+	(No symbol) [0x007C2174]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:38,309 - VariantDropdownTest - INFO - Element found with CSS selector #a-autoid-3-announce: Visible. Text: Top reviews
+2025-01-23 15:15:39,344 - VariantDropdownTest - WARNING - Failed to interact with CSS selector #a-autoid-3-announce: Message: element click intercepted: Element <span class="a-button-text a-declarative" data-action="a-dropdown-button" id="a-autoid-3-announce">...</span> is not clickable at point (72, 94). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" aria-hidden="true" data-value="{&quot;stringVal&quot;:&quot;helpful&quot;}" id="sort-order-dropdown_0" class="a-dropdown-link a-active">...</a>
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x007A5498]
+	(No symbol) [0x007A38A4]
+	(No symbol) [0x007A1447]
+	(No symbol) [0x007A075D]
+	(No symbol) [0x00795355]
+	(No symbol) [0x007C1EDC]
+	(No symbol) [0x00794DF4]
+	(No symbol) [0x007C2174]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:39,355 - VariantDropdownTest - WARNING - Failed to interact with CSS selector #a-popover-1 > div > div > ul > li:nth-child(1): Message: no such element: Unable to locate element: {"method":"css selector","selector":"#a-popover-1 > div > div > ul > li:nth-child(1)"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x008F6FB3+25091]
+	(No symbol) [0x0087E5D4]
+	(No symbol) [0x0075B353]
+	(No symbol) [0x0079F4BC]
+	(No symbol) [0x0079F63B]
+	(No symbol) [0x007DD8B2]
+	(No symbol) [0x007C1F24]
+	(No symbol) [0x007DB46E]
+	(No symbol) [0x007C1C76]
+	(No symbol) [0x00793185]
+	(No symbol) [0x0079430D]
+	GetHandleVerifier [0x00BED5B3+3131395]
+	GetHandleVerifier [0x00BFDDA4+3198964]
+	GetHandleVerifier [0x00BF8CC2+3178258]
+	GetHandleVerifier [0x00993290+664800]
+	(No symbol) [0x0088744D]
+	(No symbol) [0x00884798]
+	(No symbol) [0x00884936]
+	(No symbol) [0x00877030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:15:39,356 - VariantDropdownTest - ERROR - Failed to interact with any 'Top reviews' dropdown options.
+2025-01-23 15:17:56,688 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:18:59,629 - root - ERROR - Error starting Chrome Driver: Message: session not created: cannot connect to chrome at 127.0.0.1:51325
+from chrome not reachable
+Stacktrace:
+	GetHandleVerifier [0x010D6FB3+25091]
+	(No symbol) [0x0105E5D4]
+	(No symbol) [0x00F3B1C9]
+	(No symbol) [0x00F2FCFC]
+	(No symbol) [0x00F6F956]
+	(No symbol) [0x00F664FF]
+	(No symbol) [0x00F66347]
+	(No symbol) [0x00FAB459]
+	(No symbol) [0x00FAAC1A]
+	(No symbol) [0x00FA1C76]
+	(No symbol) [0x00F73185]
+	(No symbol) [0x00F7430D]
+	GetHandleVerifier [0x013CD5B3+3131395]
+	GetHandleVerifier [0x013DDDA4+3198964]
+	GetHandleVerifier [0x013D8CC2+3178258]
+	GetHandleVerifier [0x01173290+664800]
+	(No symbol) [0x0106744D]
+	(No symbol) [0x01064798]
+	(No symbol) [0x01064936]
+	(No symbol) [0x01057030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:19:26,579 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:19:27,713 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:19:27,714 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:19:35,474 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:19:35,489 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:19:35,644 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:19:35,644 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:19:35,644 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:19:37,057 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:19:42,073 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:19:42,089 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:19:42,090 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:19:42,130 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:19:42,216 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:19:42,216 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown dynamically and interacting with options...
+2025-01-23 15:19:42,217 - VariantDropdownTest - INFO - Top reviews dropdown located.
+2025-01-23 15:19:44,063 - VariantDropdownTest - INFO - Top reviews dropdown clicked successfully.
+2025-01-23 15:19:49,071 - VariantDropdownTest - ERROR - Error scanning and interacting with 'Top reviews' dropdown: Message: javascript error: Cannot read properties of null (reading 'outerHTML')
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x01066FB3+25091]
+	(No symbol) [0x00FEE5D4]
+	(No symbol) [0x00ECB353]
+	(No symbol) [0x00ED0C1D]
+	(No symbol) [0x00ED2F0C]
+	(No symbol) [0x00F4C1D7]
+	(No symbol) [0x00F31EDC]
+	(No symbol) [0x00F4B46E]
+	(No symbol) [0x00F31C76]
+	(No symbol) [0x00F03185]
+	(No symbol) [0x00F0430D]
+	GetHandleVerifier [0x0135D5B3+3131395]
+	GetHandleVerifier [0x0136DDA4+3198964]
+	GetHandleVerifier [0x01368CC2+3178258]
+	GetHandleVerifier [0x01103290+664800]
+	(No symbol) [0x00FF744D]
+	(No symbol) [0x00FF4798]
+	(No symbol) [0x00FF4936]
+	(No symbol) [0x00FE7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:21:42,782 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:21:44,442 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:21:44,443 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:21:53,103 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:21:53,118 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:21:53,281 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:21:53,282 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:21:53,282 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:21:54,648 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:21:59,673 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:21:59,703 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:21:59,704 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:21:59,743 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:21:59,838 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:21:59,839 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown dynamically and interacting with options...
+2025-01-23 15:21:59,839 - VariantDropdownTest - INFO - Top reviews dropdown located.
+2025-01-23 15:22:01,674 - VariantDropdownTest - INFO - Top reviews dropdown clicked successfully.
+2025-01-23 15:22:06,694 - VariantDropdownTest - INFO - Removed aria-hidden attributes for 'Top reviews' dropdown.
+2025-01-23 15:22:06,706 - VariantDropdownTest - WARNING - Failed to log dropdown state: Message: javascript error: Cannot read properties of null (reading 'outerHTML')
+  (Session info: chrome=132.0.6834.110)
+Stacktrace:
+	GetHandleVerifier [0x00D56FB3+25091]
+	(No symbol) [0x00CDE5D4]
+	(No symbol) [0x00BBB353]
+	(No symbol) [0x00BC0C1D]
+	(No symbol) [0x00BC2F0C]
+	(No symbol) [0x00C3C1D7]
+	(No symbol) [0x00C21EDC]
+	(No symbol) [0x00C3B46E]
+	(No symbol) [0x00C21C76]
+	(No symbol) [0x00BF3185]
+	(No symbol) [0x00BF430D]
+	GetHandleVerifier [0x0104D5B3+3131395]
+	GetHandleVerifier [0x0105DDA4+3198964]
+	GetHandleVerifier [0x01058CC2+3178258]
+	GetHandleVerifier [0x00DF3290+664800]
+	(No symbol) [0x00CE744D]
+	(No symbol) [0x00CE4798]
+	(No symbol) [0x00CE4936]
+	(No symbol) [0x00CD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:22:17,151 - VariantDropdownTest - ERROR - Dropdown options did not render within the timeout period.
+2025-01-23 15:22:17,160 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="a-popover-1"]/div/div/ul/li[2]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00D56FB3+25091]
+	(No symbol) [0x00CDE5D4]
+	(No symbol) [0x00BBB353]
+	(No symbol) [0x00BFF4BC]
+	(No symbol) [0x00BFF63B]
+	(No symbol) [0x00C3D8B2]
+	(No symbol) [0x00C21F24]
+	(No symbol) [0x00C3B46E]
+	(No symbol) [0x00C21C76]
+	(No symbol) [0x00BF3185]
+	(No symbol) [0x00BF430D]
+	GetHandleVerifier [0x0104D5B3+3131395]
+	GetHandleVerifier [0x0105DDA4+3198964]
+	GetHandleVerifier [0x01058CC2+3178258]
+	GetHandleVerifier [0x00DF3290+664800]
+	(No symbol) [0x00CE744D]
+	(No symbol) [0x00CE4798]
+	(No symbol) [0x00CE4936]
+	(No symbol) [0x00CD7030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:22:17,194 - VariantDropdownTest - INFO - Option found with XPath //*[@id="sort-order-dropdown_1"]: Most recent
+2025-01-23 15:22:17,288 - VariantDropdownTest - INFO - Clicked option with XPath //*[@id="sort-order-dropdown_1"].
+2025-01-23 15:31:26,716 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:31:27,795 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:31:27,795 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:31:36,097 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:31:36,110 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:31:36,262 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:31:36,262 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:31:36,262 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:31:37,611 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:31:42,637 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:31:42,654 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:31:42,655 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:31:42,695 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:31:42,778 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:31:42,788 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:31:42,990 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'Size Name: 5 count (Pack of 1) |Colour Name: Black': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:31:42,990 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown dynamically
+2025-01-23 15:31:42,991 - VariantDropdownTest - INFO - Top Reviews dropdown located.
+2025-01-23 15:31:44,663 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:31:49,689 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" id="a-autoid-3-announce"><span class="a-dropdown-prompt">Top reviews</span></span>
+2025-01-23 15:31:49,714 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:31:49,715 - VariantDropdownTest - INFO - Scanning for Top reviews options using specified XPaths and CSS selectors...
+2025-01-23 15:31:49,734 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="a-popover-1"]/div/div/ul/li[2]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00EF6FB3+25091]
+	(No symbol) [0x00E7E5D4]
+	(No symbol) [0x00D5B353]
+	(No symbol) [0x00D9F4BC]
+	(No symbol) [0x00D9F63B]
+	(No symbol) [0x00DDD8B2]
+	(No symbol) [0x00DC1F24]
+	(No symbol) [0x00DDB46E]
+	(No symbol) [0x00DC1C76]
+	(No symbol) [0x00D93185]
+	(No symbol) [0x00D9430D]
+	GetHandleVerifier [0x011ED5B3+3131395]
+	GetHandleVerifier [0x011FDDA4+3198964]
+	GetHandleVerifier [0x011F8CC2+3178258]
+	GetHandleVerifier [0x00F93290+664800]
+	(No symbol) [0x00E8744D]
+	(No symbol) [0x00E84798]
+	(No symbol) [0x00E84936]
+	(No symbol) [0x00E77030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:31:49,766 - VariantDropdownTest - INFO - Element found with XPath //*[@id="sort-order-dropdown_1"]: Visible. Text: Most recent
+2025-01-23 15:31:49,852 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="sort-order-dropdown_1"].
+2025-01-23 15:35:55,405 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Luke\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-01-23 15:35:59,217 - root - INFO - Chrome Driver started successfully.
+2025-01-23 15:35:59,217 - root - INFO - Navigating to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews.
+2025-01-23 15:36:06,539 - VariantDropdownTest - INFO - Navigated to https://www.amazon.co.uk/Curaprox-CUR010-CPS15-Interdental-Regular/product-reviews/B00SWSU5BG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2025-01-23 15:36:06,551 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:36:06,692 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'All variants': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:36:06,693 - VariantDropdownTest - INFO - Attempting to locate and click variant dropdown...
+2025-01-23 15:36:06,693 - VariantDropdownTest - INFO - Variant dropdown located.
+2025-01-23 15:36:08,086 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:36:13,093 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" aria-hidden="true" id="a-autoid-6-announce"><span class="a-dropdown-prompt">All variants</span></span>
+2025-01-23 15:36:13,101 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:36:13,101 - VariantDropdownTest - INFO - Scanning for variant options using specified XPaths and CSS selectors...
+2025-01-23 15:36:13,134 - VariantDropdownTest - INFO - Element found with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Visible. Text: Size Name: 5 count (Pack of 1) |Colour Name: Black
+2025-01-23 15:36:13,233 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="a-popover-1"]/div/div/ul/li[2].
+2025-01-23 15:36:13,242 - VariantDropdownTest - INFO - Reviews page fully loaded.
+2025-01-23 15:36:13,390 - VariantDropdownTest - INFO - Dropdown mapping on reviews page: {'Search': 0, 'Top reviews': 1, 'All reviewers': 2, 'All stars': 3, 'Size Name: 5 count (Pack of 1) |Colour Name: Black': 4, 'Text, image, video': 5, 'Helpful': 15}
+2025-01-23 15:36:13,390 - VariantDropdownTest - INFO - Scanning for 'Top reviews' dropdown dynamically
+2025-01-23 15:36:13,390 - VariantDropdownTest - INFO - Top Reviews dropdown located.
+2025-01-23 15:36:15,158 - VariantDropdownTest - INFO - Variant dropdown clicked successfully.
+2025-01-23 15:36:20,169 - VariantDropdownTest - INFO - Dropdown HTML after click: <span class="a-button-text a-declarative" data-action="a-dropdown-button" id="a-autoid-3-announce"><span class="a-dropdown-prompt">Top reviews</span></span>
+2025-01-23 15:36:20,176 - VariantDropdownTest - INFO - Removed aria-hidden attributes from the page.
+2025-01-23 15:36:20,177 - VariantDropdownTest - INFO - Scanning for Top reviews options using specified XPaths and CSS selectors...
+2025-01-23 15:36:20,189 - VariantDropdownTest - WARNING - Failed to interact with XPath //*[@id="a-popover-1"]/div/div/ul/li[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="a-popover-1"]/div/div/ul/li[2]"}
+  (Session info: chrome=132.0.6834.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x008A6FB3+25091]
+	(No symbol) [0x0082E5D4]
+	(No symbol) [0x0070B353]
+	(No symbol) [0x0074F4BC]
+	(No symbol) [0x0074F63B]
+	(No symbol) [0x0078D8B2]
+	(No symbol) [0x00771F24]
+	(No symbol) [0x0078B46E]
+	(No symbol) [0x00771C76]
+	(No symbol) [0x00743185]
+	(No symbol) [0x0074430D]
+	GetHandleVerifier [0x00B9D5B3+3131395]
+	GetHandleVerifier [0x00BADDA4+3198964]
+	GetHandleVerifier [0x00BA8CC2+3178258]
+	GetHandleVerifier [0x00943290+664800]
+	(No symbol) [0x0083744D]
+	(No symbol) [0x00834798]
+	(No symbol) [0x00834936]
+	(No symbol) [0x00827030]
+	BaseThreadInitThunk [0x75DC5D49+25]
+	RtlInitializeExceptionChain [0x7718CEBB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CE41+561]
+
+2025-01-23 15:36:20,222 - VariantDropdownTest - INFO - Element found with XPath //*[@id="sort-order-dropdown_1"]: Visible. Text: Most recent
+2025-01-23 15:36:20,308 - VariantDropdownTest - INFO - Clicked element with XPath //*[@id="sort-order-dropdown_1"].
