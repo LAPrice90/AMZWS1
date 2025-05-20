@@ -44,7 +44,7 @@ SCOPES = [
     'https://www.googleapis.com/auth/spreadsheets',
     'https://www.googleapis.com/auth/drive'
 ]
-CLIENT_SECRET_FILE = r"C:\Users\Luke\Desktop\Automation\client_secret_451363787295-6aivcb277tha61cut64a8l288ui8hnba.apps.googleusercontent.com.json"
+CLIENT_SECRET_FILE = "client_secret.json"
 
 # ---------------------------------------------------
 # 3. GOOGLE SHEETS RETRY HELPER
